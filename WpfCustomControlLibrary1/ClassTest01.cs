@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestLib01
 {
-    class ClassTest01
+    public class ClassTest01
     {
         public int TestVersion { get => 1; }
     }
